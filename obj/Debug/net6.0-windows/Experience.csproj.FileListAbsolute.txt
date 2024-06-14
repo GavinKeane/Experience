@@ -1,0 +1,33 @@
+C:\Users\Gavin Keane\source\repos\Experience\Experience\bin\Debug\net6.0-windows\Experience.exe
+C:\Users\Gavin Keane\source\repos\Experience\Experience\bin\Debug\net6.0-windows\Experience.deps.json
+C:\Users\Gavin Keane\source\repos\Experience\Experience\bin\Debug\net6.0-windows\Experience.runtimeconfig.json
+C:\Users\Gavin Keane\source\repos\Experience\Experience\bin\Debug\net6.0-windows\Experience.dll
+C:\Users\Gavin Keane\source\repos\Experience\Experience\bin\Debug\net6.0-windows\ref\Experience.dll
+C:\Users\Gavin Keane\source\repos\Experience\Experience\bin\Debug\net6.0-windows\Experience.pdb
+C:\Users\Gavin Keane\source\repos\Experience\Experience\obj\Debug\net6.0-windows\Experience.csproj.AssemblyReference.cache
+C:\Users\Gavin Keane\source\repos\Experience\Experience\obj\Debug\net6.0-windows\Experience.Form1.resources
+C:\Users\Gavin Keane\source\repos\Experience\Experience\obj\Debug\net6.0-windows\Experience.csproj.GenerateResource.cache
+C:\Users\Gavin Keane\source\repos\Experience\Experience\obj\Debug\net6.0-windows\Experience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gavin Keane\source\repos\Experience\Experience\obj\Debug\net6.0-windows\Experience.AssemblyInfoInputs.cache
+C:\Users\Gavin Keane\source\repos\Experience\Experience\obj\Debug\net6.0-windows\Experience.AssemblyInfo.cs
+C:\Users\Gavin Keane\source\repos\Experience\Experience\obj\Debug\net6.0-windows\Experience.csproj.CoreCompileInputs.cache
+C:\Users\Gavin Keane\source\repos\Experience\Experience\obj\Debug\net6.0-windows\Experience.dll
+C:\Users\Gavin Keane\source\repos\Experience\Experience\obj\Debug\net6.0-windows\ref\Experience.dll
+C:\Users\Gavin Keane\source\repos\Experience\Experience\obj\Debug\net6.0-windows\Experience.pdb
+C:\Users\Gavin Keane\source\repos\Experience\Experience\obj\Debug\net6.0-windows\Experience.genruntimeconfig.cache
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\bin\Debug\net6.0-windows\Experience.exe
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\bin\Debug\net6.0-windows\Experience.deps.json
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\bin\Debug\net6.0-windows\Experience.runtimeconfig.json
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\bin\Debug\net6.0-windows\Experience.dll
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\bin\Debug\net6.0-windows\Experience.pdb
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\obj\Debug\net6.0-windows\Experience.Form1.resources
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\obj\Debug\net6.0-windows\Experience.csproj.GenerateResource.cache
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\obj\Debug\net6.0-windows\Experience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\obj\Debug\net6.0-windows\Experience.AssemblyInfoInputs.cache
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\obj\Debug\net6.0-windows\Experience.AssemblyInfo.cs
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\obj\Debug\net6.0-windows\Experience.csproj.CoreCompileInputs.cache
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\obj\Debug\net6.0-windows\Experience.dll
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\obj\Debug\net6.0-windows\ref\Experience.dll
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\obj\Debug\net6.0-windows\Experience.pdb
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\obj\Debug\net6.0-windows\Experience.genruntimeconfig.cache
+C:\Users\Gavin Keane\Documents\Visual Studio 2022\Projects\Experience\Experience\obj\Debug\net6.0-windows\refint\Experience.dll
